@@ -4,4 +4,5 @@ int main(){
 		printf("\n Hello World");
 		c=a+b;
 		printf("\n a+b=%d",c);
+	return 0;
 }
